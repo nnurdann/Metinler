@@ -2,7 +2,7 @@ The Screws
 
 I ***quants *** my own breath
 And I steamed out from much too long
-And I long further wrong that yards
+And I long *further wrong** of yours
 And I hated under the same as well
 
 And your throwghts is not worth anywords
@@ -12,12 +12,12 @@ I'd just like to cut it off
 
 And I have already seen to much
 Although I haven't seen anything yet
-And I loose touch to my own aprehension
-And I loose touch to what I wants got
+And I loose touch to my own apprehension
+And I loose touch to what I wants God
 And my hands are not worth any word
 They better should do nothing at all
 And I rather sleep on them
-Till there are ***stand
+Till they are ***stand
 Before they waked up with the will of th'hero.
 
 And this time is not worth any word
@@ -32,11 +32,20 @@ And no one take the count of us
 
 But we are the screws
 Holding it together
+<<<<<<< HEAD
 We are the screws you can't out lock/ unlock ???
 Give us the responsability we deserve
+=======
+We are the screws you can't unlock/ outlock???
+Give us the responsability we deserve 
+>>>>>>> origin/patch-3
 At least, it's at us if we take it or not (tentatively)
 But we are the screws
 Holding it together
 We are the screws you can't ignore
+<<<<<<< HEAD
 Tell me the importance the I have been
+=======
+Tell me the importance I have been it
+>>>>>>> origin/patch-3
 And I will decide that I just can't take more
