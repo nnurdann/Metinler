@@ -2,19 +2,6 @@ when I push my ear
 I can't hear*
 Just* I can hear the ocean
 
-<<<<<<< HEAD
-When I push my ear
-I can't hear*
-Just* I can hear them shouting
-
-You don't know 
-like they grow
-_______ _________
-
-you don't know
-what we know
-_______  _________
-=======
 when I push my ear
 I can't hear*
 Just* I can hear them shouting
@@ -26,4 +13,3 @@ _______  _________
 You don't know
 what we know
 _______ _________
->>>>>>> origin/nnurdann-patch-2
